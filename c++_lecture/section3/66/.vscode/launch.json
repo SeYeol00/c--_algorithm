@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/seyeolpark/Desktop/c++_algorithm/c++_lecture/section3/66",
+      "program": "/Users/seyeolpark/Desktop/c++_algorithm/c++_lecture/section3/66/build/Debug/outDebug"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "vector": "cpp",
+        "queue": "cpp",
+        "ostream": "cpp",
+        "ios": "cpp",
+        "random": "cpp",
+        "stack": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

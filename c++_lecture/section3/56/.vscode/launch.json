@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      // "MIMode": "lldb",
+      // "externalConsole": true,
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/seyeolpark/Desktop/c++_algorithm/c++_lecture/section3/56",
+      "program": "/Users/seyeolpark/Desktop/c++_algorithm/c++_lecture/section3/56/a.out"
+    }
+  ]
+}
