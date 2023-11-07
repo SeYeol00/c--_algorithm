@@ -1,3 +1,8 @@
+import sys
+input = sys.stdin.readline
+
+
+
 
 def palindrome(word, left, right):
     if left > right:
@@ -9,7 +14,7 @@ def palindrome(word, left, right):
     return palindrome(word,left+1,right-1)
 
 
-T = int(input())
+T = int(input().strip())
 for t in range(1,T+1):
     word = input()
     print(f"#{t} {palindrome(word,0,len(word)-1)}")
