@@ -1,9 +1,6 @@
 import sys
 input = sys.stdin.readline
 
-
-
-
 def palindrome(word, left, right):
     if left > right:
         return 1
